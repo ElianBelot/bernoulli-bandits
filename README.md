@@ -2,7 +2,7 @@
 <br />
 <p align="center">
 <a href="#"><img src="https://i.ibb.co/CnqrM5t/image.png"></a>
-<h3 align="center">Exploring Multi-Armed Bernoulli Bandits</h3>
+<h3 align="center">Multi-Armed Bernoulli Bandits</h3>
 <p align="center">An exploration of Bernoulli bandits in reinforcement learning, complete with experiments and observations.</p>
 
 <!--- About --><br />
